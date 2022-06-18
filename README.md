@@ -1,0 +1,2 @@
+# django-journey
+django urls
